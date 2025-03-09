@@ -1,2 +1,2 @@
-# clusterizacao_lojas
-clusterizacao de lojas 
+# Clusterizacao
+Análises de clusterização 
